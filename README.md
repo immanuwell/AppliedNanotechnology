@@ -46,7 +46,6 @@ Citations:
 
 
 
-
 [▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
@@ -83,6 +82,12 @@ Citations:
 [8] https://www.power-and-beyond.com/what-are-integrated-circuits-definition-types-and-more-a-66046a289105d037a11ba94461ef9c5e/
 [9] https://www.electronicshub.org/integrated-circuits-types-uses/
 [10] https://www.quora.com/What-are-the-advantages-of-using-hybrid-integrated-circuits-over-monolithic-ones-Why-are-they-not-commonly-used-nowadays
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
 
 
 
@@ -124,7 +129,7 @@ Citations:
 
 
 
-
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -163,7 +168,7 @@ Citations:
 
 
 
-
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -198,7 +203,7 @@ Citations:
 
 
 
-
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -226,7 +231,7 @@ Citations:
 
 
 
-
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -261,6 +266,8 @@ Citations:
 
 
 
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -299,6 +306,12 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
+
+
 
 
 ## 12. Основные принципы нанесения тонких плёнок в вакууме (тонкоплёночной технологии). Структура планарного транзистора.
@@ -323,6 +336,14 @@ Citations:
 Citations:
 [1] https://www.mrsec.harvard.edu/education/ap298r2004/Erli%20chenFabrication%20II%20-%20Deposition-1.pdf
 [2] https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202001678
+
+
+
+
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -357,6 +378,8 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
 
 
 
@@ -390,6 +413,10 @@ Citations:
 [10] https://habr.com/ru/companies/ruvds/articles/580218/
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -429,6 +456,8 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
 
 
 
@@ -457,6 +486,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 ## 17. Основные принципы нанесения плёнок методом термического испарения. Типы подложкодержателей. Испарители с резистивным нагревом.
@@ -482,7 +515,7 @@ Citations:
 
 
 
-
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -514,7 +547,7 @@ Citations:
 
 
 
-
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -538,6 +571,8 @@ Citations:
 
 
 
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -573,6 +608,10 @@ Citations:
 [9] http://edu.tsu.ru/eor/resourse/472/html/122.html
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -625,6 +664,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -673,6 +716,14 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
+
+
+
+
 ## 24. Рентгеновская литография: основные принципы, достоинства, недостатки.
 
 Рентгеновская нанолитография (RNL) является одним из методов микро- и наноэлектроники для создания структур с разрешением до нескольких десятков нанометров. Основной принцип работы RNL заключается в использовании рентгеновского излучения для испарения материала под углом к поверхности подложки, что позволяет формировать структуры с высокой точностью и детализацией.
@@ -704,6 +755,10 @@ Citations:
 
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -750,6 +805,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -783,6 +842,8 @@ Citations:
 
 
 
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -824,6 +885,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -861,6 +926,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -891,6 +960,10 @@ Citations:
 [9] https://phys-el.ru/media/filimonov/nano/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_11.pdf
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -928,6 +1001,10 @@ Citations:
 [9] https://books.ifmo.ru/file/pdf/1003.pdf
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -995,6 +1072,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -1024,6 +1105,10 @@ Citations:
 [10] https://www.azom.com/article.aspx?ArticleID=17623
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1061,6 +1146,8 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
 
 
 
@@ -1084,6 +1171,12 @@ Citations:
 В целом, диффузия представляет собой фундаментальный процесс, лежащий в основе многих технологий, начиная от производства полупроводниковых приборов до создания сложных наноструктур.
 
 Citations:
+
+
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1132,6 +1225,8 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
 
 
 
@@ -1169,6 +1264,8 @@ Citations:
 
 
 
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1210,6 +1307,10 @@ Citations:
 
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1255,6 +1356,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -1280,6 +1385,12 @@ Citations:
 Citations:
 
 
+
+
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1318,6 +1429,12 @@ Citations:
 [10] https://patents.google.com/patent/US20050045934A1/en
 
 
+
+
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1369,7 +1486,7 @@ Citations:
 
 
 
-
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1417,7 +1534,7 @@ Citations:
 
 
 
-
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1465,6 +1582,10 @@ Citations:
 
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1517,6 +1638,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -1565,6 +1690,8 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
 
 
 
@@ -1595,6 +1722,10 @@ Citations:
 [9] https://www.mathnet.ru/php/getFT.phtml?jrnid=qe&paperid=14910&what=fullt
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1637,6 +1768,8 @@ Citations:
 
 
 
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1690,6 +1823,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -1728,6 +1865,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -1763,6 +1904,10 @@ Citations:
 
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1817,6 +1962,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -1856,7 +2005,7 @@ Citations:
 
 
 
-
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -1908,6 +2057,10 @@ Citations:
 
 
 
+[▲ Вверх к оглавлению ▲](#table_of_contents)
+
+
+
 
 
 
@@ -1938,6 +2091,10 @@ Citations:
 
 
 
+
+
+
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
@@ -2009,7 +2166,7 @@ Citations:
 
 
 
-
+[▲ Вверх к оглавлению ▲](#table_of_contents)
 
 
 
