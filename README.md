@@ -1988,6 +1988,8 @@ Citations:
 
 ## 57. Нанотрубки из графена. 
 
+![](https://i.imgur.com/MpMPIOi.png)
+
 ![](https://i.imgur.com/aeFvul9.png)
 
 ![](https://i.imgur.com/9s8FxSI.jpeg)
