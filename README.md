@@ -304,7 +304,10 @@ Citations:
 
 Эти методы позволяют не только изучать морфологию и распределение внутренних структур клеток, но и проводить исследования на молекулярном уровне, что открывает новые возможности для понимания процессов, происходящих в живых организмах.
 
-Citations:
+
+
+
+
 [1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2873076/
 [2] https://portlandpress.com/biochemsoctrans/article/52/2/761/234292/Atomic-force-microscopy-3D-structural
 [3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8959186/
