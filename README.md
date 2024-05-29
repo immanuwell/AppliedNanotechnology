@@ -257,7 +257,14 @@ Citations:
 
 В то время как АСМ использует механические силы для взаимодействия с образцом, СРМ опирается на термическое взаимодействие, что делает его подходящим для исследований, где важно изучение теплопроводности или других термических свойств материалов.
 
-Citations:
+
+
+
+
+
+
+
+
 [1] https://www.youtube.com/watch?v=tAeCUDnpcOU
 [2] https://www.nanoandmore.com/what-is-atomic-force-microscopy
 [3] https://www.parksystems.com/learning-center/nano-academy/how-afm-works
