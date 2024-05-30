@@ -71,7 +71,7 @@
 
 В целом, выбор между полупроводниковыми и гибридными ИМ зависит от конкретных требований к проекту, включая необходимость интеграции, бюджет, требования к производительности и надежности.
 
-Citations:
+
 [1] https://www.ovaga.com/blog/transistor/hybrid-integrated-circuits-hybrid-ic-definition-examples-uses-advantages
 [2] https://www.lisleapex.com/blog-hybrid-integrated-circuits-hybrid-ic-examples-advantages-and-circuit
 [3] https://en.wikipedia.org/wiki/Integrated_circuit
