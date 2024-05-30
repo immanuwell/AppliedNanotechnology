@@ -116,7 +116,7 @@
 
 Эти этапы являются общими и могут варьироваться в зависимости от конкретного типа микросхемы и используемых технологий.
 
-Citations:
+
 [1] http://base.safework.ru/iloenc?doc&nd=857200059&nh=0&ssect=0
 [2] https://cyberleninka.ru/article/n/tehnologiya-izgotovleniya-poluprovodnikovyh-integralnyh-mikroshem
 [3] http://stud.izhdv.ru/msch/36.htm
