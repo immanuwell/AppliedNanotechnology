@@ -461,7 +461,8 @@ Citations:
 
 Таким образом, использование вакуума в тонкоплёночной технологии значительно повышает эффективность и безопасность процесса нанесения плёнок, обеспечивая высокое качество конечного продукта.
 
-Citations:
+
+
 [1] http://vtt.vacuum.ru/file/misc/minaychev.pdf
 [2] https://tech-e.ru/2007_3_76.php
 [3] http://old.lib.unn.ru/students/src/Tonk_plenki.pdf
