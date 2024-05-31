@@ -2948,7 +2948,7 @@ Citations:
 
 Эти наноструктуры открывают новые возможности в области электроники, оптики, биомедицины и многих других областей благодаря своим уникальным свойствам и потенциалу для создания новых материалов и устройств.
 
-Citations:
+
 [1] https://studfile.net/preview/1720241/page:18/
 [2] https://cyberleninka.ru/article/n/kvantovye-obekty-nanotehnologiy-svoystva-primeneniya-perspektivy
 [3] https://www.cta.ru/articles/soel/2024/2024-2/178209/
