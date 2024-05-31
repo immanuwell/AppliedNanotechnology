@@ -2391,7 +2391,7 @@ Citations:
 
 Эти типы наноматериалов открывают новые возможности для инноваций в различных областях, включая электронику, медицину, строительство и космическую технологию.
 
-Citations:
+
 [1] https://libeldoc.bsuir.by/bitstream/123456789/32409/1/Korotkiy_Klassifikatsiya.pdf
 [2] https://znanierussia.ru/articles/%D0%9D%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B
 [3] https://worldofmaterials.ru/spravochnik/special-materials/451-klassifikatsiya-nanomaterialov
