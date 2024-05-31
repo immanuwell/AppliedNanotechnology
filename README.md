@@ -2428,7 +2428,7 @@ Citations:
 
 В заключение, наноматериалы и нанотехнологии значительно продвинули развитие композитных материалов, открывая новые горизонты для их применения в различных сферах жизни. Эти технологии продолжают развиваться, предлагая новые решения для улучшения качества жизни и повышения эффективности различных процессов и продуктов.
 
-Citations:
+
 [1] https://compositeworld.ru/articles/app/id602f9aa847add2001217dfe1
 [2] https://elar.urfu.ru/bitstream/10995/3568/13/1358540_presentation_ch_1.pdf
 [3] https://cyberleninka.ru/article/n/osobennosti-nanokompozitsionnyh-materialov
