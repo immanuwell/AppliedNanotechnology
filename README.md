@@ -2498,7 +2498,7 @@ Citations:
 
 Эти примеры лишь частью возможностей, которые открываются благодаря развитию нанотехнологий и использования наноматериалов.
 
-Citations:
+
 [1] https://znanierussia.ru/articles/%D0%9D%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B
 [2] https://ria.ru/20081203/156376525.html
 [3] https://journal.sovcombank.ru/tehnologii/chto-takoe-nanotehnologii-i-gde-oni-ispolzuyutsya
