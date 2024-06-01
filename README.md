@@ -386,7 +386,8 @@
 
 Совмещённая ИМС представляет собой комбинацию различных типов интегральных схем, включая полупроводниковые, тонкоплёочные и гибридные, в одном устройстве. Это позволяет оптимизировать производительность и эффективность устройства за счёт использования наиболее подходящих технологий для каждого типа компонента. Совмещённые ИМС могут включать в себя активные и пассивные элементы, изготовленные разными способами, что обеспечивает большую гибкость в проектировании и производстве электронных систем [9].
 
-Citations:
+Полезные ссылки:
+
 [1] https://www.utmel.com/blog/categories/integrated%20circuit/types-structure-and-packages-of-integrated-circuits
 [2] https://www.electronicwings.com/users/amrut1/projects/3341/exploring-the-world-of-integrated-circuits-ics--a-comprehensive-guide
 [3] https://www.ovaga.com/blog/transistor/hybrid-integrated-circuits-hybrid-ic-definition-examples-uses-advantages
