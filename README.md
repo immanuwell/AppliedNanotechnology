@@ -312,7 +312,7 @@
 
 
 
-
+Полезные ссылки:
 
 [1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2873076/
 [2] https://portlandpress.com/biochemsoctrans/article/52/2/761/234292/Atomic-force-microscopy-3D-structural
