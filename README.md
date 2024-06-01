@@ -157,7 +157,8 @@
 
 В целом, СЗМ и АСМ представляют собой мощные инструменты для исследования наноструктур и свойств материалов на молекулярном уровне, позволяя ученым получать детализированные данные о поверхности образцов с высокой точностью.
 
-Citations:
+Полезные ссылки:
+
 [1] https://afm.oxinst.com/outreach/how-does-an-afm-microscope-work
 [2] https://afm.oxinst.com/outreach/spm-scanning-probe-microscopy
 [3] https://www.bruker.com/en/products-and-solutions/microscopes/materials-afm/faq.html
