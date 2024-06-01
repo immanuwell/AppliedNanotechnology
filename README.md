@@ -226,7 +226,8 @@
 
 Важно отметить, что при сканировании в контактном режиме кантилевр применяет значительные тангенциальные силы, которые могут повредить образец или наконечник кантилевра. Для более хрупких образцов, таких как молекулы, биологические образцы и мягкие полимеры, рекомендуется использовать неконтактный режим, который работает в области притяжательных сил, избегая трещин и значительно увеличивая срок службы наконечника [1].
 
-Citations:
+Полезные ссылки:
+
 [1] https://www.parksystems.com/park-spm-modes/91-standard-imaging-mode/223-basic-contact-afm-dynamic-force-microscope-dfm
 [2] https://www.sciencedirect.com/topics/chemistry/contact-atomic-force-microscopy
 [3] https://www.nanoandmore.com/what-is-atomic-force-microscopy
