@@ -781,7 +781,8 @@
 
 В целом, рентгеновская нанолитография представляет собой мощный инструмент для достижения сверхточного уровня детализации в микро- и наноэлектронике, но ее применение ограничено сложностью и стоимостью оборудования.
 
-Citations:
+Полезные ссылки:
+
 [1] https://prezi.com/p/d_9tac4rtggx/presentation/
 [2] https://phys-el.ru/media/filimonov/nano/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_11.pdf
 [3] https://ostec-group.ru/group-ostec/pressroom/articles/tekhnologii/nanoimprintnaya-litografiya-materialy-i-tekhnologii/
