@@ -682,7 +682,8 @@
 
 Обе технологии имеют свои преимущества и недостатки, и выбор между ними зависит от конкретных задач и требований к проекту. Проекционная нанолитография обычно используется для массового производства, где требуется высокая скорость и низкая стоимость, в то время как сканирующая нанолитография предпочтительнее для исследовательских и прототипировочных работ, где важна высокая точность и детализация.
 
-Citations:
+Полезные ссылки:
+
 [1] https://publications.hse.ru/pubs/share/folder/mtmv5nzmkm/51858404.pdf
 [2] https://rep.bntu.by/bitstream/handle/data/43916/Tekhnologii_nano-_i_mikrosistemnoj_tekhniki.pdf?sequence=1&isAllowed=y
 [3] http://aspirant.phys.msu.ru/documents/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%20%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B8%D0%B7%D0%BA%D0%BE%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D0%A1%D0%BB%D1%83%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F.docx
