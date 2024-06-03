@@ -2808,6 +2808,10 @@ Citations:
 Эти методы обеспечивают глубокое понимание свойств и поведения наноматериалов, что является ключевым для разработки новых технологий и продуктов.
 
 
+
+Полезные ссылки:
+
+
 [1] https://rg.ru/documents/2012/02/28/perechen-dok.html
 [2] https://www.nanoindustry.su/journal/article/4636
 [3] https://library.bsuir.by/m/12_101945_1_108525.PDF
