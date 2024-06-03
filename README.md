@@ -2575,6 +2575,10 @@ Citations:
 Выбор конкретного метода зависит от целей исследования, типа наноматериала и требуемой информации. Современные технологии позволяют комбинировать несколько методов для комплексного анализа наноматериалов, что значительно расширяет возможности исследования в этой области.
 
 
+
+Полезные ссылки:
+
+
 [1] https://omgtu.ru/general_information/faculties/radio_engineering_department/department_of_quot_physics_quot/lib_pfys/280402-280302/TOMIM.pdf
 [2] https://thesaurus.rusnano.com/wiki/45/
 [3] http://www.kstu.ru/servlet/contentblob?id=377188
