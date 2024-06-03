@@ -3119,6 +3119,10 @@ STM может быть использован для получения изо�
 
 
 
+
+
+Полезные ссылки:
+
 [1] http://static.bsu.az/w27/BakMuh/vli/vlinanobio5.pdf
 [2] http://lib.ugsha.ru:8080/bitstream/123456789/10315/1/2016-07-58-60.pdf
 [3] https://elar.urfu.ru/bitstream/10995/1316/5/1324735_lectures.pdf
