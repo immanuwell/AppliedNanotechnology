@@ -3045,6 +3045,8 @@ STM может быть использован для получения изо�
 
 
 
+Полезные ссылки:
+
 [1] https://panor.ru/articles/primenenie-nanotekhnologiy-v-biologii-i-meditsine/76356.html
 [2] https://nau.shkolamoskva.ru/article_nano_005
 [3] https://cyberleninka.ru/article/n/primenenie-nanomaterialov-v-meditsine-chast-1
