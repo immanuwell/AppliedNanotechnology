@@ -3006,6 +3006,8 @@ STM может быть использован для получения изо�
 
 
 
+Полезные ссылки:
+
 [1] https://moodle.kstu.ru/mod/resource/view.php?id=49885
 [2] https://science.kuzstu.ru/wp-content/docs/NIOKR/Reports/o1_p.doc
 [3] http://lab.bmstu.ru/s_publication3.htm
