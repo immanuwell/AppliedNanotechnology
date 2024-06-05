@@ -2296,7 +2296,8 @@ Citations:
 
 Эта классификация позволяет лучше понять свойства и возможности применения различных видов наноматериалов, учитывая их уникальные характеристики на нанометровом уровне.
 
-Citations:
+Полезные ссылки:
+
 [1] https://worldofmaterials.ru/spravochnik/special-materials/451-klassifikatsiya-nanomaterialov
 [2] https://libeldoc.bsuir.by/bitstream/123456789/32409/1/Korotkiy_Klassifikatsiya.pdf
 [3] https://elib.bsu.by/bitstream/123456789/155335/1/25%20%D0%9D%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B.pdf
