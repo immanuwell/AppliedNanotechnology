@@ -1777,7 +1777,8 @@ Citations:
 
 Таким образом, лазеры на квантовых точках и квантовых ямах играют ключевую роль в развитии современных технологий, предоставляя новые возможности для применения в различных сферах жизни.
 
-Citations:
+Полезные ссылки:
+
 [1] https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80_%D0%BD%D0%B0_%D0%BA%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D1%85_%D1%82%D0%BE%D1%87%D0%BA%D0%B0%D1%85
 [2] https://spbau.ru/assets/documents/Books/zhukovae-lazeryi-i-mikrolazeryi-na-osnove-kt_2019.pdf
 [3] https://journals.ioffe.ru/ftp/1998/04/p385-410.pdf
