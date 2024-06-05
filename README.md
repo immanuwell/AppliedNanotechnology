@@ -1341,7 +1341,8 @@ Citations:
 
 Важно отметить, что при использовании травления необходимо учитывать ряд факторов, включая безопасность работы с травителями, необходимость защиты непротравляемых участков поверхности и возможные побочные эффекты на окружающую среду и здоровье персонала.
 
-Citations:
+Полезные ссылки:
+
 [1] https://alfacasting.ru/faq/nanotexnologii-v-texnologii-polnyi-i-podrobnyi-obzor
 [2] https://www.rusnor.org/pubs/library/6412.htm
 [3] https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
