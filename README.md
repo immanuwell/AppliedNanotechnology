@@ -2071,7 +2071,8 @@ Citations:
 
 В 2016 году европейские эксперты разработали рекомендации по работе с одностенными углеродными нанотрубками, и некоторые из них были зарегистрированы для использования в Европе в промышленных масштабах.
 
-Citations:
+Полезные ссылки:
+
 [1] https://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0%D0%BD%D0%BE%D1%82%D1%80%D1%83%D0%B1%D0%BA%D0%B8
 [2] https://ocsial.com/media/file/2020/06/22/BROCHURE_TUBALL_RUS_200209.pdf
 [3] https://www.techinsider.ru/science/548964-50-tonn-v-god-kak-rossiyskie-fiziki-izmenyat-privychnyy-nam-mir/
