@@ -1880,7 +1880,8 @@ Citations:
 
 Наноматериалы обладают уникальными свойствами, отличающимися от свойств аналогичных материалов в массивном состоянии. Их применение может варьироваться от использования в электронике и оптике до медицинских и косметических продуктов.
 
-Citations:
+Полезные ссылки:
+
 [1] https://libeldoc.bsuir.by/bitstream/123456789/32409/1/Korotkiy_Klassifikatsiya.pdf
 [2] https://znanierussia.ru/articles/%D0%9D%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B
 [3] https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB
