@@ -1527,7 +1527,8 @@ Citations:
 
 В целом, технология ГИМС представляет собой мощный инструмент для разработки современных электронных устройств, позволяющий достигать высоких показателей производительности и надежности.
 
-Citations:
+Полезные ссылки:
+
 [1] http://repo.ssau.ru/bitstream/Metodicheskie-ukazaniya/Analiz-konstrukcii-gibridnyh-integralnyh-mikroshem-Elektronnyi-resurs-metod-ukazaniya-k-lab-rabote-53642/1/%D0%9F%D0%B8%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%90.%D0%98.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B9%20%D0%93%D0%98%D0%9C%D0%A1.pdf
 [2] https://cchgeu.ru/upload/iblock/0cd/svistova-t.v.-osnovy-mikroelektroniki.pdf
 [3] https://books.ifmo.ru/file/pdf/1003.pdf
