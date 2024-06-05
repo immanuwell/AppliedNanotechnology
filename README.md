@@ -1257,7 +1257,8 @@ Citations:
 
 Однако, несмотря на множество преимуществ, ионное легирование требует сложных технологических установок и может привести к образованию дефектов на поверхности материала.
 
-Citations:
+Полезные ссылки:
+
 [1] https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%BB%D0%B0%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F
 [2] http://www.unn.ru/books/met_files/Ionnoe_legirovanie.pdf
 [3] https://cyberleninka.ru/article/n/ionnaya-implantatsiya
@@ -1297,7 +1298,8 @@ Citations:
 
 Выбор метода окисления зависит от требуемых свойств конечного продукта, типа материала и специфических условий процесса. Важно учитывать, что окисление поверхности может существенно изменять физические и химические свойства материала, поэтому выбор метода должен быть обоснован тщательным анализом задачи.
 
-Citations:
+Полезные ссылки:
+
 [1] https://t-zinc.ru/o-kompanii/stati/oksidirovanie.html
 [2] https://dspace.spbu.ru/bitstream/11701/17289/1/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BD%D0%B0%D0%BD%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8%20%D0%98%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%9D%D0%B0%D1%81%D0%BB%D0%B0%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf
 [3] https://rep.bntu.by/bitstream/handle/data/43916/Tekhnologii_nano-_i_mikrosistemnoj_tekhniki.pdf?sequence=1&isAllowed=y
