@@ -2127,7 +2127,8 @@ Citations:
 
 Эти области демонстрируют потенциал наноматериалов и нанотехнологий для трансформации многих аспектов нашей жизни, от производства и здравоохранения до энергетики и космических исследований.
 
-Citations:
+Полезные ссылки:
+
 [1] https://znanierussia.ru/articles/%D0%9D%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B
 [2] https://ria.ru/20081203/156376525.html
 [3] https://journal.sovcombank.ru/tehnologii/chto-takoe-nanotehnologii-i-gde-oni-ispolzuyutsya
