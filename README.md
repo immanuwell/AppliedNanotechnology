@@ -1966,7 +1966,8 @@ Citations:
 
 Таким образом, углеродные наноразмерные триботехнические материалы представляют собой перспективный подход в области триботехники, предлагая новые возможности для улучшения эффективности и снижения затрат на эксплуатацию оборудования и машин.
 
-Citations:
+Полезные ссылки:
+
 [1] http://synergy-journal.ru/archive/article7467
 [2] https://powder.misis.ru/jour/article/download/251/167
 [3] https://panor.ru/articles/uglerodnye-nanorazmernye-tribotekhnicheskie-materialy/72193.html
