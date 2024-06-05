@@ -2244,7 +2244,8 @@ Citations:
 
 Выбор конкретного метода диагностики зависит от целей исследования, типа наноструктуры и доступных ресурсов. Совмещение различных методов позволяет получить наиболее полное понимание свойств и поведения наноструктур.
 
-Citations:
+Полезные ссылки:
+
 [1] http://nano.msu.ru/files/basics/lecture07_Panov.pdf
 [2] http://repo.ssau.ru/bitstream/Uchebnye-izdaniya/Metody-diagnostiki-mikro-i-nanostruktur-Elektronnyi-resurs-nauchobrazovat-modul-v-sisteme-distanc-obucheniya-MOODLE-70892/1/%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%20%D0%90.%20%D0%92.%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B.pdf
 [3] https://thesaurus.rusnano.com/wiki/45/
