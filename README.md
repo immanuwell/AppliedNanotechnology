@@ -1472,7 +1472,8 @@ Citations:
 
 Оба этих типа устройств являются важной частью современных интегральных схем, обеспечивая необходимые функциональные возможности и улучшая эффективность работы электронных систем.
 
-Citations:
+Полезные ссылки:
+
 [1] https://www.ansys.com/blog/difference-between-mom-mim-mos-capacitor
 [2] https://www.escomponents.com/blog/2019/7/31/active-amp-passive-components-what-is-the-difference-between-the-two
 [3] https://resources.pcb.cadence.com/blog/2023-integrated-resistors-and-capacitors
