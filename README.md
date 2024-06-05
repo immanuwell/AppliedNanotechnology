@@ -1925,7 +1925,8 @@ Citations:
 
 В целом, понимание влияния размеров нанообъектов на их электрические свойства является ключевым для разработки новых материалов и устройств в области нанотехнологий. Это позволяет создавать материалы с заданными свойствами, оптимизируя их структуру на нанометровом уровне.
 
-Citations:
+Полезные ссылки:
+
 [1] https://cyberleninka.ru/article/n/vliyanie-razmera-nanostrukturnyh-obektov-na-ih-svoystva-i-metody-ih-differentsiatsii-po-razmeram
 [2] https://www.mathnet.ru/php/getFT.phtml?jrnid=kvant&paperid=2006&what=fullt
 [3] https://sdo.ivanovo.ac.ru/mod/resource/view.php?id=7780
