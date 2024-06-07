@@ -148,6 +148,10 @@
 
 
 
+
+
+
+
 ## 4. Сканирующая зондовая микроскопия (СЗМ): основные принципы, классификация. Принципы работы атомно-силовой микроскопии.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Scanning_Tunneling_Microscope_schematic.svg/1280px-Scanning_Tunneling_Microscope_schematic.svg.png)
