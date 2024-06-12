@@ -2284,6 +2284,8 @@ Citations:
 
 
 
+
+
 ## 59. Кластеры в наноматериалах. 
 
 ![](https://i.imgur.com/udPeq76.png)
