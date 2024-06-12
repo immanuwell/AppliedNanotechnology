@@ -2630,8 +2630,6 @@ Citations:
 
 
 
-
-
 ## Методы получения нанопорошков
 
 ![](https://i.imgur.com/I4vb39C.png)
